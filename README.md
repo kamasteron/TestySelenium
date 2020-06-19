@@ -1,2 +1,2 @@
 # TestySelenium
-Selenium tests
+Repozytorium zawiera pliki omawiane na spotkaniu Analityków.
